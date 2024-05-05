@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(225, 234, 240);
+}
+
+nav {
+    background-color: rgb(173, 206, 243);
+    border-bottom: 5px solid rgb(163, 163, 242);
+}
+
+nav .container-fluid{
+    margin-left: 70px;
+    margin-right: 70px;
+
+}
+
+#dropdown-cart{
+    font-size: small;
+} 
+
+
+#nav-cart {
+    color : black;
+}
+
+.container {
+    margin-top: 80px;
+    background-color: rgb(173, 206, 243);
+    border-radius: 20px;
+}
+
+.card {
+    margin: 10px;
+    
+}
+
+.card img {
+    padding: 20px;
+    max-width: 250px;
+    max-height: 350px;
+}
+
+
